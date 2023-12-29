@@ -1,7 +1,7 @@
----
+<!-- 
 id: contact
 style: "display: none;"
----
+-->
 
 # Contact
 
