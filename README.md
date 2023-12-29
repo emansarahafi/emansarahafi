@@ -7,4 +7,4 @@
 *Check out my repositories below.*
 
 <br/>
-This repository is licensed under [MIT](https://github.com/emansarahafi/emansarahafi/tree/main?tab=MIT-1-ov-file) (c) 2019 GitHub, Inc.
+This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
