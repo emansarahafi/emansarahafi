@@ -1,1 +1,1 @@
-[🏠 Home](#) | [👤 About](02-about.md) | [📚 Education](03-education.md) | [🏢 Experience](04-experience.md) | [💻 Projects](05-projects.md)
+[🏠 Home](#) | [👤 About](#about) | [📚 Education](#education) | [🏢 Experience](#experience) | [💻 Projects](#projects) | [📞 Contact](#contact)
