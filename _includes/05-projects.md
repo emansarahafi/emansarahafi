@@ -1,7 +1,7 @@
----
+<!-- 
 id: projects
 style: "display: none;"
----
+-->
 
 # Projects
 
