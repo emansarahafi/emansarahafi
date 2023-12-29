@@ -6,7 +6,7 @@ style: "display: none;"
 # Education
 
 ## 🎓 SMU - South Mediterranean University (MSB- MedTech-LCI) - Master's Degree in Software Engineering
-**📍 Tunis | 📅 June 2025**
+**📍 Tunis, Tunisia | 📅 June 2025**
 
 Member of:
 - Google Developers Student Club SMU (GDSC SMU).
