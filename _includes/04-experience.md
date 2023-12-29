@@ -1,3 +1,7 @@
+---
+id: experience
+---
+
 # Experience
 
 ## 🏢 Company Name - Position
