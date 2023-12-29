@@ -1,3 +1,7 @@
+---
+id: projects
+---
+
 # Projects
 
 ## 💻 Project Name 1
