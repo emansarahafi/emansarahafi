@@ -7,4 +7,4 @@
 *Check out my repositories below.*
 
 <br/>
-This repository is licensed under [MIT](../LICENSE.md) (c) 2019 GitHub, Inc.
+This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
