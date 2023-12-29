@@ -1,6 +1,6 @@
-## Your GitHub Learning Lab Repository for Communicating Using Markdown
+## Hello, I’m Eman!
 
-🚀 Hello, I’m Eman! I am a passionate developer pursuing a Master’s in Software Engineering & graduated with a B.Sc. in Computer Engineering! I enjoy solving problems and creating solutions that make a positive impact.
+🚀 I am a passionate developer pursuing a Master’s in Software Engineering & graduated with a B.Sc. in Computer Engineering! I enjoy solving problems and creating solutions that make a positive impact.
 
 [🏠 My Portfolio](#actual-home-url) | [📧 Email](mailto:emansarahafi@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/emansarahafi/) | [📄 Resume](link-to-your-resume.pdf)
 
