@@ -1,3 +1,7 @@
+---
+id: education
+---
+
 # Education
 
 ## 🎓 University Name - Degree
