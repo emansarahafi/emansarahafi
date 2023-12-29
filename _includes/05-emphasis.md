@@ -1,7 +1,11 @@
-*This text will be italic*
-_This will also be italic_
+# Projects
 
-**This text will be bold**
-__This will also be bold__
+## 💻 Project Name 1
+Brief description of Project 1. Include key technologies used and outcomes.
 
-_You **can** combine them_
+
+
+## 💻 Project Name 2
+Brief description of Project 2. Include key technologies used and outcomes.
+
+
