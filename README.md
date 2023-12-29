@@ -32,7 +32,10 @@
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![NoSQL](https://img.shields.io/badge/NoSQL-003545?style=for-the-badge&logo=firebase&logoColor=white) 
 
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=emansarahafi&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=emansarahafi&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emansarahafi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 *Check out my repositories below.*
