@@ -6,7 +6,7 @@ id: contact
 
 Connect with me on:
 
-- [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/yourname/) LinkedIn
-- [![GitHub](icons/github.png)](https://github.com/yourusername/) GitHub
-- [![Resume](icons/resume.png)](link-to-your-resume.pdf) Resume
-- [![Email](icons/email.png)](mailto:you@example.com) Email
+- 📧 [Email](mailto:emansarahafi@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/emansarahafi/)
+- 🐙 [GitHub](https://github.com/emansarahafi/)
+- 📄 [Resume](link-to-your-resume.pdf)
