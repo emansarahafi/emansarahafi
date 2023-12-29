@@ -4,5 +4,7 @@
 
 [🏠 My Portfolio](#actual-home-url) | [📧 Email](mailto:emansarahafi@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/emansarahafi/) | [📄 Resume](link-to-your-resume.pdf)
 
+*Check out my repositories here.*
 
+**Footer:**
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
