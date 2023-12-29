@@ -1,5 +1,6 @@
 ---
 id: about
+style: "display: none;"
 ---
 
 # About Me
