@@ -1,5 +1,6 @@
 ---
 id: education
+style: "display: none;"
 ---
 
 # Education
