@@ -27,12 +27,12 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 ## Backend and Databases:
+![NoSQL](https://img.shields.io/badge/NoSQL-003545?style=for-the-badge&logo=firebase&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-%231287B0.svg?style=for-the-badge&logo=apache%20cassandra&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![NoSQL](https://img.shields.io/badge/NoSQL-003545?style=for-the-badge&logo=firebase&logoColor=white) 
-![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-%231287B0.svg?style=for-the-badge&logo=apache%20cassandra&logoColor=white) 
 
 ## Mobile App Development:
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white) 
