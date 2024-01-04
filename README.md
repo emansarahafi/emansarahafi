@@ -1,4 +1,4 @@
-## Hello, I’m Eman!
+## Hello there, I’m Eman! 👋🏻
 
 # 👤 About Me:
 🚀 I am a passionate developer pursuing a Master’s in Software Engineering & graduated with a B.Sc. in Computer Engineering! I enjoy solving problems and creating solutions that make a positive impact.
