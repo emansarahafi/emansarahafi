@@ -66,6 +66,8 @@
 ## IoT and Hardware:
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry%20pi&logoColor=white) 
+![MicroPython](https://img.shields.io/badge/MicroPython-%232E5B82.svg?style=for-the-badge&logo=micropython&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-%2310811F.svg?style=for-the-badge&logo=C&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-%23000000.svg?style=for-the-badge&logo=vhdl&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-%23202F3D.svg?style=for-the-badge)
 ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-%231F7A89.svg?style=for-the-badge)
