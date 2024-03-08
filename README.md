@@ -22,8 +22,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300768F.svg?style=for-the-badge&logo=python&logoColor=white)
 
-## Java Frameworks:
+## Java Libraries and Frameworks:
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![JUnit](https://img.shields.io/badge/JUnit-%23007ACC.svg?style=for-the-badge&logo=junit5&logoColor=white)
 
 ## Web Technologies:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
