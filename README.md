@@ -76,7 +76,7 @@
 [![committers.top badge](https://user-badge.committers.top/tunisia_public/emansarahafi.svg)](https://user-badge.committers.top/tunisia_public/emansarahafi)
 [![committers.top badge](https://user-badge.committers.top/tunisia/emansarahafi.svg)](https://user-badge.committers.top/tunisia/emansarahafi)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=emansarahafi&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![](https://leetcode-stats.vercel.app/api?username=emansarahafi)]([https://github.com/JeremyTsaii/leetcode-stats](https://leetcode.com/emansarahafi/))<br/>
+<!-- [![](https://leetcode-stats.vercel.app/api?username=emansarahafi)]([https://github.com/JeremyTsaii/leetcode-stats](https://leetcode.com/emansarahafi/))<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emansarahafi&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emansarahafi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
