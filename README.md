@@ -3,7 +3,7 @@
 # 👤 About Me:
 🚀 I am a passionate developer pursuing a Master’s in Software Engineering & graduated with a B.Sc. in Computer Engineering! I enjoy solving problems and creating solutions that make a positive impact.
 
-[🏠 My Portfolio](https://emansarahafi.github.io/emansarahafi/) | [📧 Email](mailto:emansarahafi@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/emansarahafi/) | [📄 Resume](https://github.com/emansarahafi/emansarahafi/raw/383cda6b0cdd349aa3e608df2d53b8e847045fff/CV_2024-08-27_Eman_Afi.pdf)
+[🏠 My Portfolio](https://emansarahafi.github.io/emansarahafi/) | [📧 Email](mailto:emansarahafi@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/emansarahafi/) | [📄 Resume](https://github.com/emansarahafi/emansarahafi/raw/3c5647a771714e881ccf431b9bacbe32266a74de/CV_2024-08-27_Eman_Afi.pdf)
 
 # 💻 Technical Skills:
 
