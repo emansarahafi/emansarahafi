@@ -74,7 +74,8 @@
 # 📊 GitHub Stats:
 [![committers.top badge](https://user-badge.committers.top/tunisia_private/emansarahafi.svg)](https://user-badge.committers.top/tunisia_private/emansarahafi)
 [![committers.top badge](https://user-badge.committers.top/tunisia_public/emansarahafi.svg)](https://user-badge.committers.top/tunisia_public/emansarahafi)
-[![committers.top badge](https://user-badge.committers.top/tunisia/emansarahafi.svg)](https://user-badge.committers.top/tunisia/emansarahafi)<br/>
+[![committers.top badge](https://user-badge.committers.top/tunisia/emansarahafi.svg)](https://user-badge.committers.top/tunisia/emansarahafi)
+[![Profile views](https://komarev.com/ghpvc/?username=emansarahafi&label=Profile%20views&color=0e75b6&style=flat)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=emansarahafi&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emansarahafi&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emansarahafi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
