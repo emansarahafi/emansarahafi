@@ -5,6 +5,16 @@ style: "display: none;"
 
 # Experience
 
+## 🏢 ACTIA Engineering Services - Summer Research Intern
+**📍 Tunis, Tunisia | 📅 July-September 2024**
+
+Responsible for the research of developing an adaptive navigation system for semi-autonomous vehicles by considering the constraints of safety and operational efficiency.
+
+## 🏢 Savy - Software Engineer Intern
+**📍 Manchester, UK | 📅 May-September 2024**
+
+Responsible for developing a ZohoSalesIQ chatbot, connecting it to a React Native mobile application and web application (MERN stack) to manage UK taxes, and integrating the web application via Zoho Sites.
+
 ## 🏢 American University of Bahrain (AUBH) - Student Teaching Assistant
 **📍 Bahrain | 📅 March-May 2023**
 
