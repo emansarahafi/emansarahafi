@@ -72,7 +72,7 @@
 ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-%231F7A89.svg?style=for-the-badge)
 
 # 📊 GitHub Stats:
-[![committers.top badge](https://user-badge.committers.top/tunisia_private/emansarahafi.svg)](https://user-badge.committers.top/tunisia_private/emansarahafi)
+<!-- [![committers.top badge](https://user-badge.committers.top/tunisia_private/emansarahafi.svg)](https://user-badge.committers.top/tunisia_private/emansarahafi)-->
 [![committers.top badge](https://user-badge.committers.top/tunisia_public/emansarahafi.svg)](https://user-badge.committers.top/tunisia_public/emansarahafi)
 [![committers.top badge](https://user-badge.committers.top/tunisia/emansarahafi.svg)](https://user-badge.committers.top/tunisia/emansarahafi)
 ![Profile views](https://komarev.com/ghpvc/?username=emansarahafi&label=Profile%20views&color=0e75b6&style=flat)<br/>
